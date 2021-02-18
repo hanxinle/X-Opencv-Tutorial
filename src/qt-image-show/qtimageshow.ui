@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>qtimageshowClass</class>
+ <widget class="QWidget" name="qtimageshowClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>512</width>
+    <height>512</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>qtimageshow</string>
+  </property>
+  <widget class="MatView" name="Mat">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>40</y>
+     <width>512</width>
+     <height>512</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>MatView</class>
+   <extends>QOpenGLWidget</extends>
+   <header>matview.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="qtimageshow.qrc"/>
+ </resources>
+ <connections/>
+</ui>
