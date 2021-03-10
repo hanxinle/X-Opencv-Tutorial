@@ -1,9 +1,7 @@
 # opencv 学习笔记
 
 * 开发环境
-  * OpenCV4.10.0 + Visual Studio 2017 (x64-debug)
-  * 涉及 Qt 的例程:Opencv3.2.0 + Visual Studio 2017 (x86-debug)
-
+  * opencv3.2.0+vs2017(debug x64)
 
 ## 1 示例代码补充说明
 
@@ -35,4 +33,3 @@ CV_32F 表示每个元素的值是32位浮点数，C2表示有两个通道，Sca
 
 1. [ learn opencv3 examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
 2. [OpenCV3编程入门(毛星云)]()
-3. 
