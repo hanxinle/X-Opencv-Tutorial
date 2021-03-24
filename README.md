@@ -13,4 +13,6 @@
 
 ## 3 视频编辑软件
 
+![VideoEditor-GUI](./doc/img/gui.png)
+
 
