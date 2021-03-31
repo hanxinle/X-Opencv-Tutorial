@@ -13,6 +13,7 @@
 
 ## 3 视频编辑软件
 
+[源码链接](https://github.com/hanxinle/XVideoEditor)
 ![VideoEditor-GUI](./doc/img/gui.png)
 
 
